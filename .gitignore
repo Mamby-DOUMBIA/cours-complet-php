@@ -1,0 +1,35 @@
+# PHP
+*.log
+*.cache
+
+# Dépendances Composer (ne pas versionner les dépendances)
+vendor/
+
+# Variables d'environnement (JAMAIS dans Git !)
+.env
+.env.local
+.env.production
+
+# Uploads utilisateurs
+public/uploads/
+
+# Cache et fichiers temporaires
+tmp/
+cache/
+storage/
+*.tmp
+
+# Fichiers de configuration sensibles
+config/database.php
+config/secrets.php
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# OPcache
+.opcache/
