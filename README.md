@@ -165,4 +165,4 @@ Cochez chaque module au fur et à mesure de votre avancement :
 
 ---
 
-*Ce cours est structuré et rédigé pour vous accompagner de zéro jusqu'au niveau professionnel. Bonne formation !* 🎓
+*Ce cours est structuré et rédigé par Mamby DOUMBIA pour vous accompagner de zéro jusqu'au niveau professionnel. Bonne formation !* 🎓
