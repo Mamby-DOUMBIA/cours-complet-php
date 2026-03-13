@@ -20,43 +20,28 @@
 
 ## 🗂️ Structure du dépôt
 
-```
-cours-php-complet/
-│
-├── README.md                        ← Ce fichier (vue d'ensemble)
-│
-├── modules/                         ← Modules de cours (contenu principal)
-│   ├── 01-introduction/             ← Histoire, rôle de PHP, cycle HTTP
-│   ├── 02-installation/             ← XAMPP, WAMP, MAMP, configuration
-│   ├── 03-bases-langage/            ← Syntaxe, variables, types, opérateurs
-│   ├── 04-structures-controle/      ← if/else, switch, boucles
-│   ├── 05-fonctions/                ← Fonctions, paramètres, closures
-│   ├── 06-tableaux/                 ← Tableaux indexés, associatifs, multidim.
-│   ├── 07-chaines-caracteres/       ← Manipulation de chaînes
-│   ├── 08-poo/                      ← Classes, héritage, interfaces
-│   ├── 09-erreurs-exceptions/       ← Gestion des erreurs, try/catch
-│   ├── 10-fichiers/                 ← Lecture, écriture, upload de fichiers
-│   ├── 11-formulaires/              ← Traitement et validation de formulaires
-│   ├── 12-sessions-cookies/         ← Sessions et cookies PHP
-│   ├── 13-bases-de-donnees/         ← MySQL, PDO, MySQLi
-│   ├── 14-securite/                 ← Injections SQL, XSS, validation
-│   ├── 15-php-avance/               ← Namespaces, traits, generators
-│   ├── 16-architecture-mvc/         ← Architecture MVC, organisation projet
-│   ├── 17-ecosysteme/               ← Composer, Laravel, Symfony, PHPUnit
-│   └── 18-performance/              ← Optimisation, cache, requêtes
-│
-├── projets/                         ← Projets pratiques complets
-│   ├── 01-formulaire-dynamique/     ← Formulaire avec validation complète
-│   ├── 02-authentification/         ← Système login/inscription
-│   ├── 03-crud-app/                 ← Application CRUD complète
-│   ├── 04-mini-blog/                ← Blog dynamique avec base de données
-│   └── 05-api-backend/              ← API REST simple en PHP
-│
-└── ressources/                      ← Fiches mémo et tableaux récapitulatifs
-    ├── fiches-memo/                 ← Mémos rapides par thème
-    └── tableaux-recapitulatifs/     ← Tableaux de fonctions PHP
-```
+| N° Module | Titre | Niveau |
+|-----------|-------|--------|
+| 01 | [Introduction](modules/01-introduction/README.md) | Débutant |
+| 02 | [Installation](modules/02-installation/README.md) | Débutant |
+| 03 | [Bases du langage](modules/03-bases-langage/README.md) | Débutant |
+| 04 | [Structures de contrôle](modules/04-structures-controle/README.md) | Débutant |
+| 05 | [Fonctions](modules/05-fonctions/README.md) | Débutant |
+| 06 | [Tableaux](modules/06-tableaux/README.md) | Débutant |
+| 07 | [Chaînes de caractères](modules/07-chaines-caracteres/README.md) | Débutant |
+| 08 | [Programmation orientée objet](modules/08-poo/README.md) | Intermédiaire |
+| 09 | [Erreurs et exceptions](modules/09-erreurs-exceptions/README.md) | Intermédiaire |
+| 10 | [Fichiers](modules/10-fichiers/README.md) | Intermédiaire |
+| 11 | [Formulaires](modules/11-formulaires/README.md) | Intermédiaire |
+| 12 | [Sessions et cookies](modules/12-sessions-cookies/README.md) | Intermédiaire |
+| 13 | [Bases de données](modules/13-bases-de-donnees/README.md) | Intermédiaire |
+| 14 | [Sécurité](modules/14-securite/README.md) | Avancé |
+| 15 | [PHP avancé](modules/15-php-avance/README.md) | Avancé |
+| 16 | [Architecture MVC](modules/16-architecture-mvc/README.md) | Avancé |
+| 17 | [Écosystème](modules/17-ecosysteme/README.md) | Expert |
+| 18 | [Performance](modules/18-performance/README.md) | Expert |
 
+En complément de la progression modulaire ci-dessus, les dossiers `/projets/` et `/ressources/` offrent des travaux pratiques et des fiches mémo pour consolider chaque niveau.
 ---
 
 ## 📚 Progression pédagogique
